@@ -32,7 +32,22 @@
 | **Weather Station Landing Page**  | Informative landing page for a smart weather monitoring system       | Figma |
 | **Digital Marketing Agency Web Design** | Modern, conversion-focused web layout for a digital marketing agency | Figma |
 
+🏆 Achievements & Interests
 
+🎨 Passionate about UI/UX Design, Product Design, and creating clean, modern interfaces
+
+✨ Completed several design projects including:
+▪️ Makeup Brand Mobile UI
+▪️ Weather Station Landing Page
+▪️ Digital Marketing Agency Web Design
+
+💡 Participated in VLG Hackathons, gaining hands-on experience in real-world challenges
+
+🚀 Exploring tools like Figma, Canva, and Adobe XD for design-to-deployment
+
+🔥 Strong interest in building intuitive, user-friendly designs that solve real problems
+
+🌐 Currently learning and contributing to Open Source in the design and developer community
 ---
 
 ### 📈 Stats & GitHub Activity
