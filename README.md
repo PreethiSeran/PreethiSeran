@@ -24,11 +24,14 @@
 
 ### 🖼️ Projects
 
-| Project Name | Description | Tool |
-|--------------|-------------|------|
-| **Breeze Quest** | A tourism agency UI design with testimonials, packages & scenic visuals | Figma |
-| **Online Coffee Shop UI** | Minimal, cozy design for a coffee shop website | Figma |
-| **Makeup Brand Mobile UI** | A luxury feel UI for beauty & cosmetics shopping | Figma |
+| Project Name                     | Description                                                          | Tool  |
+|-----------------------------------|----------------------------------------------------------------------|-------|
+| **Breeze Quest**                 | A tourism agency UI design with testimonials, packages & scenic visuals | Figma |
+| **Online Coffee Shop UI**         | Minimal, cozy design for a coffee shop website                       | Figma |
+| **Makeup Brand Mobile UI**        | A luxury feel UI for beauty & cosmetics shopping                     | Figma |
+| **Weather Station Landing Page**  | Informative landing page for a smart weather monitoring system       | Figma |
+| **Digital Marketing Agency Web Design** | Modern, conversion-focused web layout for a digital marketing agency | Figma |
+
 
 ---
 
