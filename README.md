@@ -1,58 +1,70 @@
 <h1 align="center">Hi 👋, I'm Preethi</h1>
-<h3 align="center">Aspiring UI/UX Designer | Passionate about Visual Design & User Experience</h3>
+<h3 align="center">AI & Data Science | UI/UX Designer | ML & Data Analytics </h3>
 
 ---
 
 ### 💡 About Me
-- 🎨 I'm currently diving deep into the world of **UI/UX design**
-- 💼 Working on real-world design projects and internship tasks
-- 📱 Love designing clean, intuitive mobile and web interfaces
-- 💬 Ask me about Figma, visual hierarchy, design thinking, and layout structure
-- 🌱 Currently learning about **interactive prototyping**, design systems & mobile-first UI
-- ⚡ Fun fact: I’m a total sucker for mood boards, pastel tones, and smooth micro-interactions
+
+- 🎨 Passionate about **UI/UX Design**, visual storytelling, and clean layouts  
+- 🤖 Exploring **Machine Learning**, **AI projects**, and real-world problem solving  
+- 📊 Interested in **Data Analytics**, dashboards, and insights-driven design  
+- 💬 Ask me about UI/UX, design thinking, AI models, Python, NLP, and Figma  
+- 🌱 Currently learning **interactive prototyping**, model deployment, and full-stack workflows  
+- ⚡ Fun fact: I love pastel aesthetics, moodboards, and building projects that *look good + work smart*  
 
 ---
 
-### 🛠️ Tools & Tech
+### 🛠️ Skills & Tools
 
-- 💻 Figma, Adobe XD, Canva
-- 🌐 HTML, CSS (basic – for understanding how design translates to code)
-- 🧠 Design Thinking, Wireframing, Prototyping
-- 📊 Basic understanding of user research & usability testing
+#### 🎨 **Design & Creative Tools**
+- Figma, Adobe XD, Canva  
+- Wireframing • Prototyping • Visual Hierarchy • Layout Design  
+- User Research • UI Flows • Interactive Prototypes  
+
+#### 🤖 **AI, Machine Learning & Data Science**
+- Python  
+- ML Algorithms (Classification, NLP, Sentiment Analysis)  
+- TensorFlow, Scikit-Learn  
+- Data Cleaning & Visualization  
+- Pandas, NumPy  
+- NLP Tools (NLTK, spaCy)  
+
+#### 🌐 **Development**
+- HTML, CSS (basic)  
+- Flask (for AI project deployment)  
+- JSON, API basics  
 
 ---
 
-### 🖼️ Projects
+## 🖼️ Major Projects
 
-| Project Name                     | Description                                                          | Tool  |
-|-----------------------------------|----------------------------------------------------------------------|-------|
-| **Breeze Quest**                 | A tourism agency UI design with testimonials, packages & scenic visuals | Figma |
-| **Online Coffee Shop UI**         | Minimal, cozy design for a coffee shop website                       | Figma |
-| **Makeup Brand Mobile UI**        | A luxury feel UI for beauty & cosmetics shopping                     | Figma |
-| **Weather Station Landing Page**  | Informative landing page for a smart weather monitoring system       | Figma |
-| **Digital Marketing Agency Web Design** | Modern, conversion-focused web layout for a digital marketing agency | Figma |
+| Project Name | Domain | Description | Tools |
+|--------------|--------|-------------|-------|
+| **AI Résumé Analyser** | AI / NLP | Extracts text from résumés, analyses skills, matches job description & provides smart insights | Python, NLP, Flask |
+| **Mental Health Chatbot** | AI / ML | Chatbot trained on intents to respond to mental-health-related queries | Python, TensorFlow, NLP |
+| **Eco Habit Tracker (AI)** | AI / UX | Suggests sustainable habits using user inputs & smart AI recommendations | Python, ML |
+| **BookVibe – Mood-Based Book Recommendation** | UI/UX | A full UI/UX case study for a book recommendation website based on user mood | Figma |
+| **Breeze Quest – Tourism Website UI** | UI/UX | Tourism agency design with destinations, packages & testimonials | Figma |
+| **Online Coffee Shop UI** | UI/UX | Calm, minimal coffee-themed website layout | Figma |
+| **Makeup Brand Mobile UI** | UI/UX | Elegant mobile shopping UI for cosmetics & beauty brand | Figma |
+| **Weather Station Landing Page** | UI/UX | Dashboard-style landing page for a smart weather system | Figma |
+| **Digital Marketing Agency Website** | UI/UX | Modern landing page with strong visuals & content hierarchy | Figma |
+
 ---
 
 ## 🏆 Achievements & Interests
 
-- 🎨 Passionate about **UI/UX Design**, **Product Design**, and creating clean, modern interfaces  
-- ✨ Completed several design projects including:  
-  ▪️ **Makeup Brand Mobile UI**  
-  ▪️ **Weather Station Landing Page**  
-  ▪️ **Digital Marketing Agency Web Design**  
-- 💡 Participated in **Hackathons**, gaining hands-on experience in real-world challenges  
-- 🚀 Exploring tools like **Figma**, **Canva**, and **Adobe XD** for design-to-deployment  
-- 🔥 Strong interest in building intuitive, user-friendly designs that solve real problems  
-- 🌐 Currently learning and contributing to **Open Source** in the design and developer community  
+- 🌟 Built multiple end-to-end AI projects  
+- 🎨 Completed 10+ UI/UX designs including mobile and web apps  
+- 🔍 Strong interest in **AI-driven design**, **data visualization**, and **user-centric products**  
+- 🚀 Hands-on experience with **ML models**, **chatbots**, and **NLP pipelines**  
+- 🧠 Actively participating in online courses, hackathons, and design challenges  
+- 🌐 Learning to contribute to **open-source AI + design projects**  
 
 ---
 
+### 📈 GitHub Stats & Activity
 
----
-
-### 📈 Stats & GitHub Activity
-
-<!-- GitHub profile stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PreethiSeran&show_icons=true&theme=radical" alt="Preethi's GitHub stats" />
 </p>
@@ -61,6 +73,7 @@
 
 ### 📬 Connect with Me
 
-- 📩 Email: preethi969875@gmail.com
-- 💼 LinkedIn: https://rb.gy/wiafwa
+- 📩 Email: **preethi969875@gmail.com**
+- 💼 LinkedIn: https://rb.gy/wiafwa  
 
+---
