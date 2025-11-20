@@ -74,7 +74,7 @@
 ### 📬 Connect with Me
 
 - 📩 **Email:** **preethi969875@gmail.com**
-- 💼 **LinkedIn:** **https://rb.gy/wiafwa**  
+- 💼 **LinkedIn:** **https://www.linkedin.com/in/preethi-seran-1266332a4/**  
 - 🖥️ **Portfolio Website:** **https://preethi-s-portfolio.vercel.app/**  
 - 🎨 **Behance:** **https://www.behance.net/preethi2004**
 ---
